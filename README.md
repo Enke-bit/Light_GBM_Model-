@@ -1,0 +1,3 @@
+- BU model makine öğrenini algoritmalarınında XGboost daha hızlı olanı adlandırabiliriz.
+- Bu model ile karmaşık büyük veriler üzerinden işlem yapılabilir.
+- Umarım çalışmalarınızda katkıda bulunur iyi çalışmalar.
